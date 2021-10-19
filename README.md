@@ -23,8 +23,8 @@ lets see
 3. Install Docker: Minikube Required Docker use the below command
 
 ```bash
-$ sudo apt-get update && \
-$ sudo apt-get install docker.io -y
+# sudo apt-get update && \
+# sudo apt-get install docker.io -y
 ```
 
 4. Install Minikube: 

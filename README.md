@@ -15,9 +15,9 @@ lets see
 2. Install Kubectl: and use the below command 
 
 ```bash
-# curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
-# chmod 700 kubectl
-# sudo mv kubectl /usr/local/bin
+ curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+ chmod 700 kubectl
+ sudo mv kubectl /usr/local/bin
 ```
 
 3. Install Docker: Minikube Required Docker use the below command
